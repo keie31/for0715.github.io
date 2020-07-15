@@ -134,7 +134,7 @@ a{
 
 
 #banner{
-    background-image: url('../image/IMG_0775.jpg');
+    background-image: url('../image/IMG_0775.JPG');
 }
 
 #content{
@@ -166,7 +166,7 @@ a{
 #section-01 .container .info_box .main_pic{
     width: 560px;
     height: 100%;
-    background-image: url('../image/setou.PNG');
+    background-image: url('../image/setou.png');
     background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
@@ -443,7 +443,7 @@ a{
     height: 100%;
     
     border-radius: 3px;
-    background-image: url('../image/pic-05.jpg');
+    background-image: url('../image/pic-05.JPG');
     background-position: top;
     background-size: cover;
 
