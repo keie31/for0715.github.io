@@ -135,6 +135,9 @@ a{
 
 #banner{
     background-image: url('../image/IMG_0775.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #content{
